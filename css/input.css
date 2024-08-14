@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    font-family: 'Prompt';
+    src: url(/webcake/assets/Fonts/Prompt-Medium.ttf);
+}
+body{
+    font-family: "Prompt", sans-serif;
+}
+.full-screen{
+    height: 100vh;
+}
+.hero{
+    background-image: url("/webcake/assets/img/photo-1611497406092-4bc22c54b322.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.hero-content{
+
+}
