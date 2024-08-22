@@ -12,11 +12,8 @@ body{
     height: 100vh;
 }
 .hero{
-    background-image: url("/webcake/assets/img/photo-1611497406092-4bc22c54b322.jpg");
+    background-image: url("/assets/img/photo-1611497406092-4bc22c54b322.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-}
-.hero-content{
-
 }
