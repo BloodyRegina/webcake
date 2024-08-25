@@ -3,7 +3,7 @@
 @tailwind utilities;
 @font-face {
     font-family: 'Prompt';
-    src: url(/webcake/assets/Fonts/Prompt-Medium.ttf);
+    src: url(/assets/Fonts/Prompt-Medium.ttf);
 }
 body{
     font-family: "Prompt", sans-serif;
@@ -16,4 +16,9 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
